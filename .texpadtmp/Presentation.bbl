@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+
+\bibitem{karras2017progressive}
+Tero Karras, Timo Aila, Samuli Laine, and Jaakko Lehtinen.
+\newblock Progressive growing of gans for improved quality, stability, and
+  variation.
+\newblock {\em arXiv preprint arXiv:1710.10196}, 2017.
+
+\bibitem{pixelcnn}
+Aaron Van~den Oord, Nal Kalchbrenner, Lasse Espeholt, Oriol Vinyals, Alex
+  Graves, et~al.
+\newblock Conditional image generation with pixelcnn decoders.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  4790--4798, 2016.
+
+\bibitem{goodfellow2014generative}
+Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley,
+  Sherjil Ozair, Aaron Courville, and Yoshua Bengio.
+\newblock Generative adversarial nets.
+\newblock In {\em Advances in neural information processing systems}, pages
+  2672--2680, 2014.
+
+\end{thebibliography}
