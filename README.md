@@ -1,7 +1,7 @@
 # Colloquium
 Slides for my Colloquium presentation held on 18/02/2018
 
-Slides for my presentation on generating images of faces using
+Presentation on generating images of faces using
 - Autoregression (AR)
 - Variational Autoencoders (VAE)
 - (progressively grown) Generative Adversarial Nets (PG)GAN.
